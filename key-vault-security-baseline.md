@@ -1,5 +1,5 @@
 ---
-title: Azure security baseline for Key Vault!!!
+title: Azure security baseline for Key Vault
 description: The Key Vault security baseline provides procedural guidance and resources for implementing the security recommendations specified in the Azure Security Benchmark.
 author: msmbaldwin
 ms.service: key-vault
@@ -386,8 +386,7 @@ The security profile summarizes high-impact behaviors of Key Vault, which may re
 |---|---|---|
 | True | False | Customer |
 
-**Custom Guidance**: Use Azure Key Vault native backup feature to backup 
-
+**Custom Guidance**: Use Azure Key Vault native backup feature to backup 
  your secrets, keys, and certificates and ensure the service is recoverable using the backup data.
 
 **Reference**: [Azure Key Vault backup](/azure/key-vault/general/backup?tabs=azure-cli)
