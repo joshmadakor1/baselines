@@ -31,7 +31,7 @@ The security profile summarizes high-impact behaviors of Key Vault, which may re
 |--|--|
 | Product Category | Security |
 | Customer can access HOST / OS | No Access |
-| Service can be deployed into customer's virtual network | True |
+| Service can be deployed into customer's virtual network | False |
 | Stores customer content at rest | True |
 
 ## Network security
