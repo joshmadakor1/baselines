@@ -4,7 +4,7 @@ description: The Key Vault security baseline provides procedural guidance and re
 author: msmbaldwin
 ms.service: key-vault
 ms.topic: conceptual
-ms.date: 08/31/2022
+ms.date: 09/01/2022
 ms.author: mbaldwin
 ms.custom: subject-security-benchmark
 
@@ -31,7 +31,7 @@ The security profile summarizes high-impact behaviors of Key Vault, which may re
 |--|--|
 | Product Category | Security |
 | Customer can access HOST / OS | No Access |
-| Service can be deployed into customer's virtual network | False |
+| Service can be deployed into customer's virtual network | True |
 | Stores customer content at rest | True |
 
 ## Network security
